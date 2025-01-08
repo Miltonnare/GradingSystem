@@ -1,0 +1,2 @@
+A SIMPLE GRADING SYSTEM IMPLEMENTED IN C++. 
+Working for three Terms.
